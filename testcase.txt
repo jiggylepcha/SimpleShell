@@ -1,0 +1,41 @@
+exit
+
+pwd
+
+
+history
+
+
+echo Hello World
+echo -n Hello World
+echo -E Hello World
+echo -En Hello World
+
+
+cd ..
+cd Assignment
+
+cat history.txt
+cat -n history.txt
+cat -e history.txt
+cat -ne history.txt
+
+mkdir hello
+mkdir -v hello
+mkdir -m 777 hello
+
+rm hello
+rm -v hello
+rm -i hello
+rm -iv
+
+
+ls
+ls -a
+ls -i
+ls -a -i
+
+date
+date -u
+date -R
+date -Ru

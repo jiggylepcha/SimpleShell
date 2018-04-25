@@ -1,0 +1,37 @@
+date -u
+exit
+cat ls.c
+cat -n
+cat -n ls.c
+ls --e ls.c
+cat -e ls.c
+date
+date -u
+date -R
+ls
+ls -i
+ls -a
+mkdir hey
+ls
+date -m 777 by
+mkdir -m 777 by
+ls
+rm by
+ls
+cd hey
+mkdir hih
+ls
+rm hih
+ls
+pwd
+echo Hell
+echo -n Hey
+exit
+history
+exit
+ls
+echo Ji[C[D[D
+echo Jigme
+echo J[D[C[A[D[C[D[C[D[C[D[C
+[D[D[D
+exit
